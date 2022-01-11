@@ -2,6 +2,9 @@
 
 This a demo project using webpack which is an open source javascript module bundler used to transform files like HTML, CSS, SASS, JAVASCRIPT, etc.
 
+## Live Demo Link
+- - [Live demo](https://zieeco.github.io/webpack-template/dist/index.html)
+
 ## Built With
 
 - HTML
